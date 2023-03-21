@@ -11,15 +11,26 @@
       </div>
     </footer>
     {%- else -%}
-    <footer class="sticky-bottom mt-5">
+<!--     <footer class="sticky-bottom mt-5"> -->
+<!--       <div class="container"> -->
+    <div> <br><br><br><br><br> </div>
+    <footer class="sticky-bottom-bg">
       <div class="container">
+      <div class="left">
+        Gilhyun Ryou
+        <br>
+        <a class="u-email" href="ghryou@mit.edu">ghryou@mit.edu</a>
+      </div>
+      <div class="right">          
         &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
         {%- if site.impressum_path -%}
         <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
         {%- endif -%}
+        <br>
         {%- if site.last_updated -%}
         Last updated: {{ "now" | date: '%B %d, %Y' }}.
         {%- endif %}
+      </div>
       </div>
     </footer>
     {%- endif %}

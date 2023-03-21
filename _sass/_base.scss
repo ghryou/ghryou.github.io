@@ -352,6 +352,24 @@ footer.sticky-bottom {
   font-size: 0.9rem;
 }
 
+footer.sticky-bottom-bg {
+  border-top: 0.1px solid var(--global-footer-bg-color);
+  // background-color: var(--global-footer-bg-color);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 0.75rem;
+  .left{
+    text-align:left;
+    float:left;
+    padding-bottom: 8px;
+  }
+  .right{
+    float:right;
+    text-align:right;
+    padding-bottom: 8px;
+  }
+}
+
 // CV
 
 .cv {
