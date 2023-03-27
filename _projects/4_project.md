@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
+title: Multi-agent system
 description: another without an image
-img:
+img: assets/img/project_main/multi_agent.png
 importance: 3
 category: fun
 ---

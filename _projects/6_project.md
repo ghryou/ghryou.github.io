@@ -2,9 +2,9 @@
 layout: page
 title: FlightGoggles
 description: a project with no image
-img:
+img: assets/img/project_main/fg.png
 importance: 4
-category: 
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
