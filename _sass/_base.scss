@@ -504,12 +504,19 @@ footer.sticky-bottom-bg {
 .projects {
   a {
     text-decoration: none;
+     align-items: center; 
+     justify-content: center;
 
     &:hover {
       .card-title {
         color: var(--global-theme-color);
       }
     }
+  }
+  
+  .center {
+     align-items: center; 
+     justify-content: center;
   }
 
   .card {

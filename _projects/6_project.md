@@ -3,8 +3,8 @@ layout: page
 title: FlightGoggles
 description: a project with no image
 img: assets/img/project_main/fg.png
-importance: 4
-category: work
+importance: 2018
+category: MIT
 ---
 
 Every project has a beautiful feature showcase page.

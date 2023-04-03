@@ -4,8 +4,8 @@ title: Tailsitter planning
 description: a project that redirects to another website
 img: assets/img/project_main/tailsitter.png
 redirect: https://unsplash.com
-importance: 3
-category: work
+importance: 2021
+category: MIT
 ---
 
 Every project has a beautiful feature showcase page.

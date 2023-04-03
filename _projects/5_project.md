@@ -3,8 +3,8 @@ layout: page
 title: Multi-fidelity trajectory optimization
 description: a project with a background image
 img: assets/img/project_main/mfbo.png
-importance: 3
-category: fun
+importance: 2019
+category: MIT
 ---
 
 Every project has a beautiful feature showcase page.

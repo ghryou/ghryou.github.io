@@ -3,8 +3,8 @@ layout: page
 title: Multi-agent system
 description: another without an image
 img: assets/img/project_main/multi_agent.png
-importance: 3
-category: fun
+importance: 2021
+category: MIT
 ---
 
 Every project has a beautiful feature showcase page.

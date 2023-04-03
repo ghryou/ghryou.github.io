@@ -3,8 +3,8 @@ layout: page
 title: DARPA RACER
 description: a project with a background image
 img: assets/img/project_main/racer.png
-importance: 2
-category: work
+importance: 2022
+category: MIT
 ---
 
 Every project has a beautiful feature showcase page.
