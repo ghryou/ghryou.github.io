@@ -491,9 +491,15 @@ footer.sticky-bottom-bg .right {
 
 .projects a {
   text-decoration: none;
+  align-items: center;
+  justify-content: center;
 }
 .projects a:hover .card-title {
   color: var(--global-theme-color);
+}
+.projects .center {
+  align-items: center;
+  justify-content: center;
 }
 .projects .card img {
   width: 100%;
