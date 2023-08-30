@@ -46,6 +46,24 @@ layout: default
             {%- include news.html %}
           {%- endif %}
 
+          <!-- Video -->
+          {% if page.media -%}
+            <h2>project videos</h2>
+            <h6>A full list of projects can be found on the <a href="{{ '/projects/' | relative_url }}" style="color: var(--global-theme-color);">projects page</a></h6>.
+            <div style="margin-bottom:2rem">
+            <div class="fluid-width-video-wrapper">
+                <iframe id="vid_frame" src="https://www.youtube.com/embed/BRE4iJTijRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                <iframe id="vid_frame" src="https://www.youtube.com/embed/BRE4iJTijRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            </div>
+            </div>
+          {%- endif %}
+
+          <!-- Media -->
+          {% if page.media -%}
+            <h2>media coverage</h2>
+            {%- include media.html %}
+          {%- endif %}
+
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
