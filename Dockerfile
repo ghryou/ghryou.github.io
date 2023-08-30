@@ -1,4 +1,4 @@
-FROM bitnami/minideb:latest
+FROM bitnami/minideb:bullseye
 Label MAINTAINER Amir Pourmand
 RUN apt-get update -y
 # add locale
