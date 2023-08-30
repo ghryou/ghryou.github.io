@@ -230,6 +230,12 @@ blockquote {
   text-decoration: none;
 }
 
+.fluid-width-video-wrapper {
+  width: 100%;
+  position: relative;
+  padding: 0;
+}
+
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
