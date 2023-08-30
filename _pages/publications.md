@@ -10,6 +10,8 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
     <h4 class="year">Journal</h4>
+    <div class="bib"> [J2] Tal, E., <b>Ryou, G.</b>, Karaman, S., Tal, E., Karaman, S., Aerobatic trajectory generation for a vtol fixed-wing aircraft using differential flatness, <i>IEEE Transactions on Robotics (T-RO)</i>, August 2023, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10224280">Paper</a>, <a href="https://youtu.be/PLjN2UNz8Mg?si=OJSVeCPve4c8vh_8">Video</a>, <a href="https://news.mit.edu/2023/planning-algorithm-tailsitter-aircraft-0823">MIT News</a><br></div>
+    
     <div class="bib"> [J1] <b>Ryou, G.</b>, Tal, E., Karaman, S., Tal, E., Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, <i>The International Journal of Robotics Research (IJRR)</i>, July 2021, <a href="https://doi.org/10.1177/02783649211033317">Paper</a>, <a href="https://youtu.be/FjCIZ5lSRg0">Video</a>, <a href="https://github.com/mit-aera/mfboTrajectory">GitHub</a>, <a href="https://news.mit.edu/2021/drones-speed-route-system-0810">MIT News</a><br></div>
     
     <h4 class="year">Conference</h4>
