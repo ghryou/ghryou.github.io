@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tailsitter planning
+title: VTOL fixed-wing aircraft
 description: a project that redirects to another website
-img: assets/img/project_main/tailsitter.png
-redirect: https://unsplash.com
+img: assets/img/project_main/tailsitter.gif
+redirect: https://aera.mit.edu/projects/aerobatic-maneuvers-for-fixed-wing-vtol-aircraft
 importance: 2021
 category: MIT
 ---

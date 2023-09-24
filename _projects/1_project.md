@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Multi-fidelity reinforcement learning
-description: a project with a background image
-img: assets/img/project_main/mfrl.png
+description: a project with a background image 
+img: assets/img/project_main/mfrl.gif
 importance: 2023
 category: MIT
 ---

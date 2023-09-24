@@ -2,7 +2,8 @@
 layout: page
 title: Multi-agent system
 description: another without an image
-img: assets/img/project_main/multi_agent.png
+img: assets/img/project_main/multi_agent.gif
+redirect: https://aera.mit.edu/projects/multi-agent-collaborative-agile-motion
 importance: 2021
 category: MIT
 ---

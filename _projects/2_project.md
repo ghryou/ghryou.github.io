@@ -1,8 +1,8 @@
 ---
 layout: page
-title: DARPA RACER
-description: a project with a background image
-img: assets/img/project_main/racer.png
+title: Off-road autonomous vehicle
+description: Developed risk-predictive planner for high-speed, off-road Polaris vehicle as a part of DARPA RACER program.
+img: assets/img/project_main/racer2.gif
 importance: 2022
 category: MIT
 ---

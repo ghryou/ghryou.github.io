@@ -20,10 +20,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/) at MIT, advised by [Prof. Sertac Karaman](https://aera.mit.edu/).
+I am a Ph.D. student in the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/) at [Massachusetts Institute of Technology (MIT)](https://mit.edu/), advised by [Prof. Sertac Karaman](https://aera.mit.edu/).
 Previously, I obtained my BS degree from the [Department of Electrical and Computer Engineering](https://ee.snu.ac.kr/en) at [Seoul National University (SNU)](https://en.snu.ac.kr/).
 
-My research interests include motion planning and machine learning algorithm for robotic platforms. 
+My main research interests are in motion planning and the development of effective machine learning algorithm for robotic platforms. 
+My work focuses on modeling the capability of robotic systems and generating the optimal trajectory using the model.
+To do this, I developed a data-driven optimization algorithm that combines Bayesian optimization and reinforcement learning. 
+In addition, I am investigating multi-fidelity optimization methods that use simulation data to help the efficient design of real-world experiments.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

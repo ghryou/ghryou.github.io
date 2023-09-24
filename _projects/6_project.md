@@ -1,11 +1,13 @@
 ---
 layout: page
 title: FlightGoggles
-description: a project with no image
-img: assets/img/project_main/fg.png
+description: A photo-realistic simulator for a super vehicle. Developed by combining a thousands of photographs of real-world objects with Unity3D.
+img: assets/img/project_main/fg.gif
+redirect: https://flightgoggles.mit.edu
 importance: 2018
 category: MIT
 ---
+<!-- Developed a photo-realistic simulator for a super vehicle simulation. Combined a thousands of photographs of real-world objects with Unity3D to generate photorealistic 3-D models. The developed simulation was used by teams from around the world during the simulation challenge of the AlphaPilot Autonomous Drone Racing Competition. -->
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
