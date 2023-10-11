@@ -26,7 +26,7 @@ Previously, I obtained my BS degree from the [Department of Electrical and Compu
 My main research interests are in motion planning and the development of effective machine learning algorithm for robotic platforms. 
 My work focuses on modeling the capability of robotic systems and generating the optimal trajectory using the model.
 To do this, I developed a data-driven optimization algorithm that combines Bayesian optimization and reinforcement learning. 
-In addition, I am investigating multi-fidelity optimization methods that use simulation data to help the efficient design of real-world experiments.
+I am investigating multi-fidelity optimization methods that use simulation data to help the efficient design of real-world robotics experiments.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

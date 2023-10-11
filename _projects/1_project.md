@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-fidelity reinforcement learning
-description: a project with a background image 
+description: Efficient reinforcement learning algorithm that combines evaluations from multiple information sources with Bayesian optimization
 img: assets/img/project_main/mfrl.gif
 importance: 2023
 category: MIT

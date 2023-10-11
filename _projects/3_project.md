@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VTOL fixed-wing aircraft
-description: a project that redirects to another website
+description: Differential flatness-based acrobatic trajectory planning algorithm for VTOL tailsitter vehicles.
 img: assets/img/project_main/tailsitter.gif
 redirect: https://aera.mit.edu/projects/aerobatic-maneuvers-for-fixed-wing-vtol-aircraft
 importance: 2021

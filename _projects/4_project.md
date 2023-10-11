@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-agent system
-description: another without an image
+description: Cooperative multi-agent planning algorithm using scalable Bayesian optimization.
 img: assets/img/project_main/multi_agent.gif
 redirect: https://aera.mit.edu/projects/multi-agent-collaborative-agile-motion
 importance: 2021

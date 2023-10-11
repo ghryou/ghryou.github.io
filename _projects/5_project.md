@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-fidelity trajectory optimization
-description: a project with a background image
+description: Multi-fidelity Bayesian optimization framework for time-optimal UAV trajectory generation.
 img: assets/img/project_main/mfbo.gif
 redirect: https://aera.mit.edu/projects/multi-fidelity-trajectory-optimization
 importance: 2019
