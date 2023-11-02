@@ -2,7 +2,7 @@
 layout: page
 title: Multi-fidelity reinforcement learning
 description: Efficient reinforcement learning algorithm that combines evaluations from multiple information sources with Bayesian optimization
-img: assets/img/project_main/mfrl.gif
+img: assets/img/project_main/mfrl_gate_fast.gif
 importance: 2023
 category: MIT
 ---
