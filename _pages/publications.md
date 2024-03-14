@@ -15,6 +15,9 @@ nav_order: 1
     <div class="bib"> [J1] <b>Ryou, G.</b>, Tal, E., Karaman, S., Tal, E., Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, <i>The International Journal of Robotics Research (IJRR)</i>, July 2021, <a href="https://doi.org/10.1177/02783649211033317">Paper</a>, <a href="https://youtu.be/FjCIZ5lSRg0">Video</a>, <a href="https://github.com/mit-aera/mfboTrajectory">GitHub</a>, <a href="https://news.mit.edu/2021/drones-speed-route-system-0810">MIT News</a><br></div>
     
     <h4 class="year">Conference</h4>
+    <div class="bib"> [C7] Beyer, L. L., <b>Ryou, G.</b>, Karaman, S., Risk-Predictive Planning for Off-road Autonomy, <i>The International Conference on Robotics and Automation (ICRA)</i>, May 2024, 
+    <a href="https://youtu.be/Jh1iXktZjAg">Video</a></div>
+    
     <div class="bib"> [C6] <b>Ryou, G.</b>, Tal, E., Karaman, S., Real-Time Generation of Time-Optimal Quadrotor Trajectories with Semi-Supervised Seq2Seq Learning, <i>Conference on Robot Learning (CoRL)</i>, December 2022, <a href="https://proceedings.mlr.press/v205/ryou23a/ryou23a.pdf">Paper</a>, <a href="https://youtu.be/lCD6UH8G7AY">Video</a></div>
 
     <div class="bib"> [C5] <b>Ryou, G.</b>, Tal, E., Karaman, S., Cooperative Multi-Agent Trajectory Generation with Modular Bayesian Optimization, <i>Robotics: Science and Systems (RSS)</i>, June 2022, <a href="https://arxiv.org/abs/2206.00726">Paper</a>, <a href="https://youtu.be/rxQiNeXvLTc">Video</a> <br></div>
@@ -28,6 +31,8 @@ nav_order: 1
     <div class="bib"> [C1] Yeon, S.H., Kim, D., <b>Ryou, G.</b> and Sim, Y., System design for autonomous table tennis ball collecting robot, <i>International Conference on Control, Automation and Systems (ICCAS)</i>, October 2017, <a href="https://www.naverlabs.com/en/publicationDetail/44">Paper</a>, <a href="https://youtu.be/fncadmZEQCk">Video</a> <br></div>
 
     <h4 class="year">Pre-print</h4>
+    
+    <div class="bib"> [P3] <b>Ryou, G.</b>, Wang, G., Karaman, S., Multi-Fidelity Reinforcement Learning for Time-Optimal Quadrotor Re-planning, <a href="https://arxiv.org/abs/2403.08152">Paper</a>, <a href="https://youtu.be/75AbKY3L5As">Video</a> <br></div>
     
     <div class="bib"> [P2] Tal, E., <b>Ryou, G.</b>, Karaman, S., Aerobatic Trajectory Generation for a VTOL Fixed-Wing Aircraft Using Differential Flatness, <a href="https://arxiv.org/abs/2207.03524">Paper</a>, <a href="https://youtu.be/PLjN2UNz8Mg">Video</a> <br></div>
     
